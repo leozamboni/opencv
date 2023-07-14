@@ -25,3 +25,10 @@ build
 node_modules
 CMakeSettings.json
 xcuserdata/
+
+
+# for my personal stuff
+*samples*
+*backup*
+p*
+n*
